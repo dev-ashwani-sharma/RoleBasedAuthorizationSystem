@@ -20,7 +20,7 @@ Assumptions Made
  How to run the application
  	1. import the directory into Eclipse and then after right clicking the project select "Run As Java Application"
  	2. Navigate to the RBAC/src/ folder and then open terminal and run command "java Application"
-
+	
 File to look at 
 	- Application.java
 		contains the initialization and startup of the application
